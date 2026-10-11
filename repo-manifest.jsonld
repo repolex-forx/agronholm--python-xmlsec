@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/python-xmlsec/commit/ebbc3f7346582b89e9a5697a6eb35dfe8e3ebdf2",
       "git:hexsha": "ebbc3f7346582b89e9a5697a6eb35dfe8e3ebdf2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
